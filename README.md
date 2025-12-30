@@ -1,48 +1,48 @@
 # Free-Datasets
 
-## A collection of free sample datasets for various analysis
+## さまざまな分析向けの無料サンプルデータセット集
 
 ![Free datasets header](https://github.com/luminati-io/Free-datasets/blob/main/free-datasets.PNG)
 
-This repository contains a collection of **free datasets** with thousands of records for use in data analysis, machine learning, and research. The datasets span multiple domains, from business to social media data. All the datasets were collected with [our Web Scraper APIs](https://brightdata.com/products/web-scraper). Want custom datasets or large datasets from popular and hard to scrape domains? Check out our [Dataset Marketplace](https://brightdata.com/products/datasets).
+このリポジトリには、データ分析、機械学習、研究で利用できる、数千件のレコードを含む **無料データセット** のコレクションが含まれています。データセットは、ビジネスからソーシャルメディアデータまで、複数のドメインにまたがります。すべてのデータセットは [当社のWeb Scraper APIs](https://brightdata.jp/products/web-scraper) を使用して収集されています。カスタムデータセットや、人気が高くスクレイピングが難しいドメインの大規模データセットをご希望ですか？[Dataset Marketplace](https://brightdata.jp/products/datasets) をご確認ください。
 
-## Some of the data points include:
+## 含まれるデータポイントの例:
 
-- `company_name`: Name of the company or business
-- `industry`: Industry the company belongs to
-- `location`: Geographical location of the business
-- `product_name`: Name of the product or service
-- `price`: Price of the product or service
-- `reviews`: Customer reviews or ratings
-- `job_title`: Job title for employment data
-- `job_location`: Location of the job
-- `education_level`: Required education level for the job
-- `skills`: Key skills required for the job
-- `followers_count`: Number of social media followers
-- `posts_count`: Number of social media posts
-- `url`: Direct link to the source page
-- `ratings`: Ratings of businesses, products, or services
+- `company_name`: 会社または事業者の名称
+- `industry`: 会社が属する業界
+- `location`: 事業の地理的な所在地
+- `product_name`: 製品またはサービス名
+- `price`: 製品またはサービスの価格
+- `reviews`: 顧客レビューまたは評価
+- `job_title`: 求人データの職種名
+- `job_location`: 勤務地
+- `education_level`: 求人に必要な学歴レベル
+- `skills`: 求人に必要な主要スキル
+- `followers_count`: ソーシャルメディアのフォロワー数
+- `posts_count`: ソーシャルメディアの投稿数
+- `url`: ソースページへの直接リンク
+- `ratings`: 事業者、製品、またはサービスの評価
 
-And a lot more. These datasets are derived from various public sources and offer insights into multiple industries. You can download full size free datasets from [here](https://brightdata.com/products/datasets/free).
+このほかにも多数あります。これらのデータセットはさまざまな公開ソースから派生しており、複数業界にわたる洞察を提供します。フルサイズの無料データセットは [こちら](https://brightdata.jp/products/datasets/free) からダウンロードできます。
 
-## Available Dataset File Formats:
+## 利用可能なデータセットのファイル形式:
 
 - **CSV**, **JSON**, **NDJSON**, **Parquet**
-- Optionally compressed to `.gz`
+- 必要に応じて `.gz` に圧縮可能です
 
-## Dataset Delivery Options:
+## データセットの配信オプション:
 
 - **Email**, **API download**, **Webhook**, **Amazon S3**, **Google Cloud Storage**, **Microsoft Azure**, **Snowflake**, **SFTP**
 
-## Update Frequency:
+## 更新頻度:
 
-- **Once**, **Daily**, **Weekly**, **Monthly**, **Quarterly**, or **Custom intervals**
+- **Once**, **Daily**, **Weekly**, **Monthly**, **Quarterly**, または **Custom intervals**
 
-## Data Enrichment:
+## データエンリッチメント:
 
-- Additional data points can be added based on specific project needs.
+- プロジェクトの特定ニーズに基づき、追加のデータポイントを付加できます。
 
-## Some of the datasets in this repo include:
+## このリポジトリに含まれるデータセットの一部:
 
 - `LinkedIn-company-info.csv`
 - `Pinterest-posts.csv`
@@ -67,23 +67,23 @@ And a lot more. These datasets are derived from various public sources and offer
 - `twitter-posts.csv`
 - `walmart-products.csv`
 
-## Use Cases for Free Datasets:
+## 無料データセットのユースケース:
 
-### 1. Business Intelligence
-Analyze market trends, company performance, or consumer behavior to gain insights and improve decision-making processes.
+### 1. ビジネスインテリジェンス
+市場トレンド、企業パフォーマンス、または消費者行動を分析して洞察を得て、意思決定プロセスの改善に役立てます。
 
-### 2. Machine Learning
-Train machine learning models using real-world data to create accurate predictive models in various domains.
+### 2. 機械学習
+実世界のデータを用いて機械学習モデルを学習し、さまざまなドメインで精度の高い予測モデルを作成します。
 
-### 3. Social Media Analysis
-Analyze user behavior, social media sentiment, and engagement metrics for brands or individual users.
+### 3. ソーシャルメディア分析
+ユーザー行動、ソーシャルメディア上のセンチメント、ならびにブランドまたは個人ユーザーのエンゲージメント指標を分析します。
 
-### 4. Job Market Insights
-Study trends in job postings, skills required, and industry growth to help guide career planning and talent acquisition.
+### 4. 求人市場のインサイト
+求人投稿の傾向、求められるスキル、業界成長を調査し、キャリア設計や採用活動の指針にします。
 
-### 5. Customer Sentiment Analysis
-Use product or service reviews to analyze consumer sentiment and identify areas of improvement.
+### 5. 顧客センチメント分析
+製品またはサービスのレビューを使用して消費者センチメントを分析し、改善領域を特定します。
 
-## Free Access for Researchers and NGOs
+## 研究者およびNGO向けの無料アクセス
 
-We provide **free access** to datasets for academic faculties, researchers, NGOs, and NPOs working on environmental or social causes. If you are a researcher or NGO, submit your application [here](https://brightinitiative.com).
+当社は、環境または社会課題に取り組む大学教員、研究者、NGO、NPOに対して、データセットへの **無料アクセス** を提供しています。研究者またはNGOの方は、[こちら](https://brightinitiative.com) から申請を提出してください。
