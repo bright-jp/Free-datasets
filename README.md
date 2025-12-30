@@ -2,7 +2,7 @@
 
 ## さまざまな分析向けの無料サンプルデータセット集
 
-![Free datasets header](https://github.com/luminati-io/Free-datasets/blob/main/free-datasets.PNG)
+![Free datasets header](https://github.com/bright-jp/Free-datasets/blob/main/free-datasets.PNG)
 
 このリポジトリには、データ分析、機械学習、研究で利用できる、数千件のレコードを含む **無料データセット** のコレクションが含まれています。データセットは、ビジネスからソーシャルメディアデータまで、複数のドメインにまたがります。すべてのデータセットは [当社のWeb Scraper APIs](https://brightdata.jp/products/web-scraper) を使用して収集されています。カスタムデータセットや、人気が高くスクレイピングが難しいドメインの大規模データセットをご希望ですか？[Dataset Marketplace](https://brightdata.jp/products/datasets) をご確認ください。
 
